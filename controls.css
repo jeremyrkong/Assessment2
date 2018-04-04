@@ -1,0 +1,22 @@
+.rangeControl {
+    width:55px;
+}
+
+.nitems {
+  width:auto;
+  height:auto;
+  position:absolute;
+  left:0;
+  right:0;
+  margin:auto;
+}
+
+.nprev {
+    position:absolute;
+    display:inline-block;
+    margin-right:5px;
+}
+
+#display {
+    
+}
